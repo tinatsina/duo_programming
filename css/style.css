@@ -5,26 +5,34 @@
 }
 
 #title {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: sans-serif;
     color: #222;
     text-align: center;
     font-size: large;
+    padding-top: 2.5em;
 }
 
 #img-div {
     background-color: #fff;
+    text-align: center;
+    width: 95%;
+    margin: 0 auto;
 }
 
 #intro-timeline {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: sans-serif;
     color: #222;
     text-align: center;
     font-size: medium;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 #tribute-info {
-    font-family: 'Courier New';
-    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    max-width: 50%;
+    margin: 0 auto;
 }
 
 #tail-div {
